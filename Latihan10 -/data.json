@@ -1,0 +1,17 @@
+[
+    {
+        "nama" : "Rizal",
+        "nim" : "C2C020012",
+        "prodi" : "Informatika"
+    },
+    {
+        "nama" : "Nawang",
+        "nim" : "C2C020120",
+        "prodi" : "Sastra Jepang"
+    },
+    {
+        "nama" : "King",
+        "nim" : "C2C020012",
+        "prodi" : "Kedokteran"
+    }
+]
